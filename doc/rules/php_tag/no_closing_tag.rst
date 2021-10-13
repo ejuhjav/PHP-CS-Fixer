@@ -17,9 +17,8 @@ Example #1
     <?php
     class Sample
     {
-   -}
+    }
    -?>
-   +}
    \ No newline at end of file
 
 Rule sets
